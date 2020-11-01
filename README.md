@@ -40,7 +40,7 @@ Various LSTM models were attempted in fake news detection, starting at a standar
 → LSTM_updated.ipynb   
 → LSTM_results.ipynb  
 
-#### 2. Associated Files
+#### 4. Associated Files
 
 Other files in the GitHub utilised in creating the project. 
 
