@@ -4,7 +4,17 @@
 
 ##### In a world of COVID-19 and an increasingly polarised and unstable political climate, fake news has become a real and credible threat to citizen liberty and health. It continues to disseminate insidious disinformation within a public sphere that increasingly turns to online social media for news. This projects seeks to find the best performing classifier to detect fake news.
 
-#### 1. Convolutional Neural Network
+#### 1. Statistical Machine Learning
+
+Various Statistical Machine Learning models were attempted in fake news detection, from a baseline Naive Bayes model to the final best performing model; a Support Vector Machine. 
+
+**Associated code:**  
+→ tf_idf_classifiers.ipynb   
+→ doc2vec_cl   
+→ ml_glove  
+→ Classifier_performance.docx  
+
+#### 2. Convolutional Neural Network
 
 Various convolutional neural network models were attempted in fake news detection, starting at a simple standard model and building on this model to the final best performing model; a multi-channel CNN. 
 
@@ -20,7 +30,7 @@ Various convolutional neural network models were attempted in fake news detectio
 → CNN_results.pdf  
 → Plots  
 
-#### 2. Long Short-Term Memory Model
+#### 3. Long Short-Term Memory Model
 
 Various LSTM models were attempted in fake news detection, starting at a standard model and building on this model to the final best performing model; a LSTM-CNN. 
 
@@ -29,16 +39,6 @@ Various LSTM models were attempted in fake news detection, starting at a standar
 → LSTM_models.ipynb   
 → LSTM_updated.ipynb   
 → LSTM_results.ipynb  
-
-#### 2. Long Short-Term Memory Model
-
-Various Statistical Machine Learning models were attempted in fake news detection, from a baseline Naive Bayes model to the final best performing model; a Support Vector Machine. 
-
-**Associated code:**  
-→ tf_idf_classifiers.ipynb   
-→ doc2vec_cl   
-→ ml_glove  
-→ Classifier_performance.docx  
 
 #### 2. Associated Files
 
