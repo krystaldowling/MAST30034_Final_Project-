@@ -16,7 +16,7 @@ Various Statistical Machine Learning models were attempted in fake news detectio
 
 #### 2. Convolutional Neural Network
 
-Various convolutional neural network models were attempted in fake news detection, starting at a simple standard model and building on this model to the final best performing model; a multi-channel CNN. 
+Various CNN models were attempted in fake news detection, starting at a simple standard model and building on this model to the final best performing model; a multi-channel CNN. 
 
 **Associated code:**  
 → Standard_CNN.ipynb  
