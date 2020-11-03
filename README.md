@@ -1,4 +1,4 @@
-# Comparing Machine Learning Methods for Fake News Detection
+# Comparing Machine Learning Methods in Fake News Detection
 
 #### Krystal Dowling, Charlotte Williams, Laura Heard, Yifan Luo
 
@@ -49,7 +49,6 @@ Other files in the GitHub utilised in creating the project.
 → Preprocessing  
 → Data  
 → Embeddings  
-→ Report  
 → Submission  
 
 
